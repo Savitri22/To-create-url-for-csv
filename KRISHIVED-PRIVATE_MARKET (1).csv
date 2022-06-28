@@ -1,135 +1,135 @@
-ID,Project,Reporter,Assigned To,Priority,Severity,Reproducibility,Category,Date Submitted,View Status,Updated,Status,Resolution
-43775,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43774,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43773,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43772,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43771,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43770,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43768,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43767,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-14,new,open
-43454,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-08,public,2022-06-08,new,open
-43283,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-06,public,2022-06-06,new,open
-42997,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-31,public,2022-05-31,new,open
-42984,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-30,public,2022-05-30,new,open
-42983,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-30,public,2022-05-30,new,open
-42982,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-30,public,2022-05-30,new,open
-42981,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-30,public,2022-05-30,new,open
-42905,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-27,public,2022-05-27,new,open
-42828,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-25,public,2022-05-25,new,open
-42825,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-25,public,2022-05-25,new,open
-42786,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-24,public,2022-05-24,new,open
-42777,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-24,public,2022-05-24,new,open
-42776,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-24,public,2022-05-24,new,open
-42704,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-23,public,2022-05-23,new,open
-42626,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-20,public,2022-05-20,new,open
-42625,KRISHIVED PFM,shivdasc,,normal,minor,have not tried,Bug,2022-05-20,public,2022-05-20,new,open
-42028,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-04-27,public,2022-04-27,new,open
-41862,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-04-21,public,2022-04-21,new,open
-41608,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-04-12,public,2022-04-12,new,open
-40595,KRISHIVED android,shivdasc,,normal,minor,have not tried,Bug,2022-03-22,public,2022-03-22,new,open
-40556,KRISHIVED android,shivdasc,,normal,minor,have not tried,Bug,2022-03-21,public,2022-03-21,new,open
-40545,KRISHIVED android,shivdasc,,normal,minor,have not tried,Bug,2022-03-21,public,2022-03-21,new,open
-39449,KRISHIVED PFM,vaishnaviak,,high,major,always,Bug,2022-02-17,public,2022-02-17,new,open
-39436,KRISHIVED android,yasht,,high,crash,always,Bug,2022-02-17,public,2022-02-17,new,open
-39046,KRISHIVED posttrade,yasht,,normal,minor,random,Bug,2022-02-04,public,2022-02-04,new,open
-33917,KRISHIVED posttrade,Rajendraj,,normal,major,always,Bug,2021-09-01,public,2021-09-01,new,open
-27709,KRISHIVED Auction Android,DEEKSHA,,high,major,sometimes,Bug,2021-03-20,public,2021-03-20,new,open
-27546,KRISHIVED Auction Android,MAHENDRA,,normal,minor,have not tried,Bug,2021-03-12,public,2021-03-12,new,open
-38938,KRISHIVED PFM,aartip,ashwinir,high,major,always,Bug,2022-02-01,public,2022-02-04,feedback,open
-27587,KRISHIVED Bilateral,DEEKSHA,DEEKSHA,high,major,random,Bug,2021-03-15,public,2021-03-15,feedback,open
-44117,KRISHIVED posttrade,sayleel,chetans,high,major,always,Bug,2022-06-21,public,2022-06-21,assigned,open
-40514,KRISHIVED android,yasht,bhavyakumart,high,crash,always,Bug,2022-03-19,public,2022-03-19,assigned,open
-40513,KRISHIVED android,yasht,bhavyakumart,normal,minor,have not tried,Bug,2022-03-19,public,2022-03-19,assigned,open
-40512,KRISHIVED android,yasht,bhavyakumart,normal,minor,always,Bug,2022-03-19,public,2022-03-19,assigned,open
-40511,KRISHIVED android,yasht,bhavyakumart,normal,major,always,Bug,2022-03-19,public,2022-03-19,assigned,open
-40510,KRISHIVED android,yasht,bhavyakumart,normal,minor,always,Bug,2022-03-19,public,2022-03-19,assigned,open
-39576,KRISHIVED PFM,pragatia,shradha,normal,minor,always,Bug,2022-02-22,public,2022-02-22,assigned,open
-39453,KRISHIVED PFM,pragatia,shradha,normal,minor,always,Bug,2022-02-17,public,2022-02-17,assigned,open
-39388,KRISHIVED android,yasht,abolijadhav,normal,crash,always,Bug,2022-02-15,public,2022-02-15,assigned,open
-36005,KRISHIVED Continuous Market,asham,swapnilm,normal,major,always,Bug,2021-10-26,public,2021-10-26,assigned,open
-36004,KRISHIVED Continuous Market,asham,dineshp,normal,major,always,Bug,2021-10-26,public,2021-10-26,assigned,open
-35899,KRISHIVED PFM,asham,ashwinir,normal,major,always,Bug,2021-10-23,public,2021-10-23,assigned,open
-35898,KRISHIVED PFM,asham,ashwinir,normal,major,always,Bug,2021-10-23,public,2021-10-23,assigned,open
-35897,KRISHIVED PFM,asham,ashwinir,normal,major,always,Bug,2021-10-23,public,2021-10-23,assigned,open
-35896,KRISHIVED Continuous Market,asham,swapnilm,normal,major,always,Bug,2021-10-23,public,2021-10-23,assigned,open
-35820,KRISHIVED android,pradipk,dineshp,normal,minor,always,Bug,2021-10-21,public,2021-10-21,assigned,open
-34912,KRISHIVED posttrade,MAHENDRA,neelams,normal,minor,have not tried,Bug,2021-09-27,public,2021-09-27,assigned,open
-34524,KRISHIVED posttrade,asham,dhananjais,normal,major,always,Bug,2021-09-17,public,2021-09-17,assigned,open
-34523,KRISHIVED posttrade,asham,dhananjais,normal,major,always,Bug,2021-09-17,public,2021-09-17,assigned,open
-34522,KRISHIVED posttrade,asham,dhananjais,normal,major,always,Bug,2021-09-17,public,2021-09-17,assigned,open
-34521,KRISHIVED posttrade,asham,dhananjais,normal,minor,always,Bug,2021-09-17,public,2021-09-17,assigned,open
-34519,KRISHIVED posttrade,asham,surajk,normal,major,always,Bug,2021-09-17,public,2021-09-17,assigned,open
-34393,KRISHIVED posttrade,poonamc,dhananjais,normal,major,have not tried,Bug,2021-09-15,public,2021-09-15,assigned,open
-34391,KRISHIVED posttrade,poonamc,dhananjais,normal,minor,always,Bug,2021-09-15,public,2021-09-15,assigned,open
-34133,KRISHIVED posttrade,raginim,ashwinir,high,major,always,Bug,2021-09-06,public,2021-09-07,assigned,open
-34132,KRISHIVED android,raginim,abolijadhav,high,major,always,Bug,2021-09-06,public,2021-09-06,assigned,open
-34131,KRISHIVED android,raginim,abolijadhav,high,major,always,Bug,2021-09-06,public,2021-09-06,assigned,open
-34130,KRISHIVED android,raginim,abolijadhav,high,major,always,Bug,2021-09-06,public,2021-09-06,assigned,open
-33887,KRISHIVED android,raginim,abolijadhav,high,major,always,Bug,2021-09-01,public,2021-09-01,assigned,open
-29806,KRISHIVED posttrade,MAHENDRA,neelams,normal,minor,have not tried,Bug,2021-05-18,public,2021-05-18,assigned,open
-29164,KRISHIVED posttrade,MAHENDRA,sanjeebm,normal,minor,have not tried,Bug,2021-05-04,public,2021-05-04,assigned,open
-28699,KRISHIVED spotlite java,MAHENDRA,sumitp,normal,minor,have not tried,Bug,2021-04-22,public,2021-04-22,assigned,open
-28698,KRISHIVED spotlite java,MAHENDRA,sumitp,normal,minor,have not tried,Bug,2021-04-22,public,2021-04-22,assigned,open
-27795,KRISHIVED Auction Android,MAHENDRA,ashwinir,high,minor,always,Bug,2021-03-24,public,2021-03-24,assigned,open
-27593,KRISHIVED Auction Android,MAHENDRA,vikramm,normal,minor,have not tried,Bug,2021-03-15,public,2021-03-15,assigned,open
-27451,KRISHIVED Auction Android,MAHENDRA,vikramm,normal,minor,have not tried,Bug,2021-03-09,public,2021-03-09,assigned,open
-26968,KRISHIVED Bilateral,MAHENDRA,tradingdev,normal,minor,have not tried,Bug,2021-02-24,public,2021-02-24,assigned,open
-26914,KRISHIVED Auction Android,MAHENDRA,shatrudhank,normal,minor,have not tried,Bug,2021-02-23,public,2021-02-23,assigned,open
-26897,KRISHIVED Auction Android,MAHENDRA,tejast,normal,minor,have not tried,Bug,2021-02-23,public,2021-02-23,assigned,open
-26893,KRISHIVED Auction Android,MAHENDRA,tejast,normal,minor,have not tried,Bug,2021-02-23,public,2021-02-23,assigned,open
-26775,KRISHIVED Auction Android,MAHENDRA,chaitanyak,normal,minor,have not tried,Bug,2021-02-19,public,2021-02-19,assigned,open
-26690,KRISHIVED Auction Android,MAHENDRA,tejast,normal,minor,have not tried,Bug,2021-02-18,public,2021-02-18,assigned,open
-26689,KRISHIVED Auction Android,MAHENDRA,mayuriw,normal,minor,have not tried,Bug,2021-02-18,public,2021-02-18,assigned,open
-26678,KRISHIVED Auction Android,MAHENDRA,ashwinik,high,minor,have not tried,Bug,2021-02-18,public,2021-02-18,assigned,open
-26662,KRISHIVED Auction Android,MAHENDRA,ashwinik,normal,minor,have not tried,Bug,2021-02-18,public,2021-02-18,assigned,open
-26578,KRISHIVED Bilateral,MAHENDRA,ashwinik,normal,minor,have not tried,Bug,2021-02-16,public,2021-02-16,assigned,open
-12383,KRISHIVED Auction Web,ganeshd,arushib,normal,minor,always,Bug,2020-02-20,public,2020-02-20,assigned,open
-33889,KRISHIVED android,raginim,abolijadhav,high,major,always,Bug,2021-09-01,public,2021-09-06,resolved,open
-39494,KRISHIVED PFM,vaishnaviak,,normal,major,always,Bug,2022-02-18,public,2022-06-24,closed,open
-43104,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-01,public,2022-06-24,closed,open
-43088,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-01,public,2022-06-24,closed,open
-43083,KRISHIVED-PRIVATE MARKET,shivdasc,ratikas,normal,minor,have not tried,Bug,2022-06-01,public,2022-06-24,closed,open
-43072,KRISHIVED-PRIVATE MARKET,shivdasc,ratikas,normal,minor,have not tried,Bug,2022-06-01,public,2022-06-24,closed,open
-38685,KRISHIVED PFM,saurabhr,,normal,major,have not tried,Bug,2022-01-22,public,2022-06-23,closed,open
-38684,KRISHIVED PFM,saurabhr,,normal,minor,have not tried,Bug,2022-01-22,public,2022-06-23,closed,open
-38644,KRISHIVED PFM,saurabhr,,normal,major,have not tried,Bug,2022-01-21,public,2022-06-23,closed,open
-42814,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-25,public,2022-06-22,closed,open
-42813,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-25,public,2022-06-22,closed,open
-42183,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-02,public,2022-06-22,closed,open
-43769,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-06-14,public,2022-06-21,closed,open
-42904,KRISHIVED-PRIVATE MARKET,shivdasc,,normal,minor,have not tried,Bug,2022-05-27,public,2022-06-14,closed,open
-40614,KRISHIVED android,shivdasc,,normal,minor,have not tried,Bug,2022-03-22,public,2022-03-23,closed,open
-40507,KRISHIVED android,yasht,bhavyakumart,normal,major,random,Bug,2022-03-19,public,2022-03-22,closed,open
-39471,KRISHIVED android,yasht,,normal,major,always,Bug,2022-02-18,public,2022-03-07,closed,open
-35900,KRISHIVED PFM,asham,ashwinir,normal,major,always,Bug,2021-10-23,public,2021-11-11,closed,open
-11456,KRISHIVED Auction Web,manishaj,arushib,high,major,always,Bug,2020-02-03,public,2020-03-20,closed,open
-12152,KRISHIVED Auction Web,bhagyshrik,arushib,high,major,always,Bug,2020-02-13,public,2020-03-16,closed,open
-11151,KRISHIVED Auction Web,raginim,arushib,high,major,always,Bug,2020-01-28,public,2020-02-11,closed,open
-39475,KRISHIVED PFM,balajik,shradha,normal,major,always,Bug,2022-02-18,public,2022-06-17,deployed_in_uat,open
-42039,KRISHIVED posttrade,sayleel,chetans,high,major,always,Bug,2022-04-27,public,2022-06-02,deployed_in_uat,open
-39575,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-22,public,2022-04-08,deployed_in_uat,open
-39440,KRISHIVED PFM,yasht,shradha,normal,minor,random,Bug,2022-02-17,public,2022-02-18,deployed_in_uat,open
-39477,KRISHIVED PFM,balajik,shradha,normal,major,always,Bug,2022-02-18,public,2022-02-18,deployed_in_uat,open
-39484,KRISHIVED PFM,pragatia,shradha,normal,minor,always,Bug,2022-02-18,public,2022-02-18,deployed_in_uat,open
-39467,KRISHIVED PFM,pragatia,saurabhd,normal,minor,always,Bug,2022-02-18,public,2022-02-18,deployed_in_uat,open
-39489,KRISHIVED PFM,pragatia,shradha,normal,minor,always,Bug,2022-02-18,public,2022-02-18,deployed_in_uat,open
-39452,KRISHIVED PFM,pragatia,shradha,normal,minor,always,Bug,2022-02-17,public,2022-02-18,deployed_in_uat,open
-39492,KRISHIVED PFM,balajik,shradha,normal,minor,always,Bug,2022-02-18,public,2022-02-18,deployed_in_uat,open
-39352,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-18,deployed_in_uat,open
-39387,KRISHIVED PFM,yasht,shradha,high,major,always,Bug,2022-02-15,public,2022-02-16,deployed_in_uat,open
-39400,KRISHIVED PFM,pragatia,saurabhd,normal,minor,always,Bug,2022-02-16,public,2022-02-16,deployed_in_uat,open
-39381,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-15,public,2022-02-16,deployed_in_uat,open
-39363,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-16,deployed_in_uat,open
-39362,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-15,deployed_in_uat,open
-39358,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-15,deployed_in_uat,open
-39357,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-15,deployed_in_uat,open
-39356,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-15,deployed_in_uat,open
-39354,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-15,deployed_in_uat,open
-39353,KRISHIVED PFM,pragatia,,normal,minor,always,Bug,2022-02-14,public,2022-02-15,deployed_in_uat,open
-39103,KRISHIVED posttrade,yasht,,normal,minor,always,Bug,2022-02-07,public,2022-02-07,deployed_in_uat,open
-39048,KRISHIVED posttrade,yasht,,normal,minor,always,Bug,2022-02-04,public,2022-02-04,deployed_in_uat,open
-39047,KRISHIVED posttrade,yasht,,normal,minor,always,Bug,2022-02-04,public,2022-02-04,deployed_in_uat,open
-36470,KRISHIVED PFM,asham,ashwinir,normal,minor,always,Bug,2021-11-11,public,2021-11-11,deployed_in_uat,open
-36469,KRISHIVED PFM,asham,ashwinir,normal,major,always,Bug,2021-11-11,public,2021-11-11,deployed_in_uat,open
-36468,KRISHIVED PFM,asham,ashwinir,normal,minor,always,Bug,2021-11-11,public,2021-11-11,deployed_in_uat,open
-35901,KRISHIVED PFM,asham,ashwinir,normal,minor,always,Bug,2021-10-23,public,2021-10-25,deployed_in_uat,open
+ID,Project,Priority,Severity,Reproducibility,Category,Status,Resolution
+43775,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43774,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43773,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43772,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43771,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43770,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43768,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43767,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43454,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+43283,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42997,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42984,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42983,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42982,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42981,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42905,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42828,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42825,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42786,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42777,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42776,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42704,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42626,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+42625,KRISHIVED PFM,normal,minor,have not tried,Bug,new,open
+42028,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+41862,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+41608,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,new,open
+40595,KRISHIVED android,normal,minor,have not tried,Bug,new,open
+40556,KRISHIVED android,normal,minor,have not tried,Bug,new,open
+40545,KRISHIVED android,normal,minor,have not tried,Bug,new,open
+39449,KRISHIVED PFM,high,major,always,Bug,new,open
+39436,KRISHIVED android,high,crash,always,Bug,new,open
+39046,KRISHIVED posttrade,normal,minor,random,Bug,new,open
+33917,KRISHIVED posttrade,normal,major,always,Bug,new,open
+27709,KRISHIVED Auction Android,high,major,sometimes,Bug,new,open
+27546,KRISHIVED Auction Android,normal,minor,have not tried,Bug,new,open
+38938,KRISHIVED PFM,high,major,always,Bug,feedback,open
+27587,KRISHIVED Bilateral,high,major,random,Bug,feedback,open
+44117,KRISHIVED posttrade,high,major,always,Bug,assigned,open
+40514,KRISHIVED android,high,crash,always,Bug,assigned,open
+40513,KRISHIVED android,normal,minor,have not tried,Bug,assigned,open
+40512,KRISHIVED android,normal,minor,always,Bug,assigned,open
+40511,KRISHIVED android,normal,major,always,Bug,assigned,open
+40510,KRISHIVED android,normal,minor,always,Bug,assigned,open
+39576,KRISHIVED PFM,normal,minor,always,Bug,assigned,open
+39453,KRISHIVED PFM,normal,minor,always,Bug,assigned,open
+39388,KRISHIVED android,normal,crash,always,Bug,assigned,open
+36005,KRISHIVED Continuous Market,normal,major,always,Bug,assigned,open
+36004,KRISHIVED Continuous Market,normal,major,always,Bug,assigned,open
+35899,KRISHIVED PFM,normal,major,always,Bug,assigned,open
+35898,KRISHIVED PFM,normal,major,always,Bug,assigned,open
+35897,KRISHIVED PFM,normal,major,always,Bug,assigned,open
+35896,KRISHIVED Continuous Market,normal,major,always,Bug,assigned,open
+35820,KRISHIVED android,normal,minor,always,Bug,assigned,open
+34912,KRISHIVED posttrade,normal,minor,have not tried,Bug,assigned,open
+34524,KRISHIVED posttrade,normal,major,always,Bug,assigned,open
+34523,KRISHIVED posttrade,normal,major,always,Bug,assigned,open
+34522,KRISHIVED posttrade,normal,major,always,Bug,assigned,open
+34521,KRISHIVED posttrade,normal,minor,always,Bug,assigned,open
+34519,KRISHIVED posttrade,normal,major,always,Bug,assigned,open
+34393,KRISHIVED posttrade,normal,major,have not tried,Bug,assigned,open
+34391,KRISHIVED posttrade,normal,minor,always,Bug,assigned,open
+34133,KRISHIVED posttrade,high,major,always,Bug,assigned,open
+34132,KRISHIVED android,high,major,always,Bug,assigned,open
+34131,KRISHIVED android,high,major,always,Bug,assigned,open
+34130,KRISHIVED android,high,major,always,Bug,assigned,open
+33887,KRISHIVED android,high,major,always,Bug,assigned,open
+29806,KRISHIVED posttrade,normal,minor,have not tried,Bug,assigned,open
+29164,KRISHIVED posttrade,normal,minor,have not tried,Bug,assigned,open
+28699,KRISHIVED spotlite java,normal,minor,have not tried,Bug,assigned,open
+28698,KRISHIVED spotlite java,normal,minor,have not tried,Bug,assigned,open
+27795,KRISHIVED Auction Android,high,minor,always,Bug,assigned,open
+27593,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+27451,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26968,KRISHIVED Bilateral,normal,minor,have not tried,Bug,assigned,open
+26914,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26897,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26893,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26775,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26690,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26689,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26678,KRISHIVED Auction Android,high,minor,have not tried,Bug,assigned,open
+26662,KRISHIVED Auction Android,normal,minor,have not tried,Bug,assigned,open
+26578,KRISHIVED Bilateral,normal,minor,have not tried,Bug,assigned,open
+12383,KRISHIVED Auction Web,normal,minor,always,Bug,assigned,open
+33889,KRISHIVED android,high,major,always,Bug,resolved,open
+39494,KRISHIVED PFM,normal,major,always,Bug,closed,open
+43104,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+43088,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+43083,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+43072,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+38685,KRISHIVED PFM,normal,major,have not tried,Bug,closed,open
+38684,KRISHIVED PFM,normal,minor,have not tried,Bug,closed,open
+38644,KRISHIVED PFM,normal,major,have not tried,Bug,closed,open
+42814,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+42813,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+42183,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+43769,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+42904,KRISHIVED-PRIVATE MARKET,normal,minor,have not tried,Bug,closed,open
+40614,KRISHIVED android,normal,minor,have not tried,Bug,closed,open
+40507,KRISHIVED android,normal,major,random,Bug,closed,open
+39471,KRISHIVED android,normal,major,always,Bug,closed,open
+35900,KRISHIVED PFM,normal,major,always,Bug,closed,open
+11456,KRISHIVED Auction Web,high,major,always,Bug,closed,open
+12152,KRISHIVED Auction Web,high,major,always,Bug,closed,open
+11151,KRISHIVED Auction Web,high,major,always,Bug,closed,open
+39475,KRISHIVED PFM,normal,major,always,Bug,deployed_in_uat,open
+42039,KRISHIVED posttrade,high,major,always,Bug,deployed_in_uat,open
+39575,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39440,KRISHIVED PFM,normal,minor,random,Bug,deployed_in_uat,open
+39477,KRISHIVED PFM,normal,major,always,Bug,deployed_in_uat,open
+39484,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39467,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39489,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39452,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39492,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39352,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39387,KRISHIVED PFM,high,major,always,Bug,deployed_in_uat,open
+39400,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39381,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39363,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39362,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39358,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39357,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39356,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39354,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39353,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+39103,KRISHIVED posttrade,normal,minor,always,Bug,deployed_in_uat,open
+39048,KRISHIVED posttrade,normal,minor,always,Bug,deployed_in_uat,open
+39047,KRISHIVED posttrade,normal,minor,always,Bug,deployed_in_uat,open
+36470,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+36469,KRISHIVED PFM,normal,major,always,Bug,deployed_in_uat,open
+36468,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
+35901,KRISHIVED PFM,normal,minor,always,Bug,deployed_in_uat,open
