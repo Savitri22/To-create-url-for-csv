@@ -1,0 +1,435 @@
+# ----------------------------------------
+# Report CSV Export
+# ----------------------------------------
+# How are active users trending?
+# Start date: 20220602
+# End date: 20220629
+Day,30 days,7 days,1 day
+0000,290,99,17
+0001,293,91,23
+0002,290,87,13
+0003,279,86,0
+0004,290,73,31
+0005,306,78,29
+0006,329,96,46
+0007,335,101,25
+0008,338,109,26
+0009,322,110,10
+0010,312,110,1
+0011,331,116,36
+0012,355,128,37
+0013,378,128,45
+0014,397,141,38
+0015,418,150,37
+0016,428,163,24
+0017,421,162,1
+0018,459,183,49
+0019,498,198,51
+0020,529,209,50
+0021,529,209,42
+0022,544,214,44
+0023,533,207,22
+0024,518,207,0
+0025,531,190,35
+0026,566,183,49
+0027,568,179,41
+
+#  
+
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Day,1.1.09,1.1.07,1.0.2,1.1.08,1.1.11
+0000,0,2,3,12,0
+0001,2,2,6,14,0
+0002,6,3,0,9,0
+0003,0,0,0,0,0
+0004,11,2,4,16,0
+0005,16,0,5,9,0
+0006,24,0,8,14,0
+0007,17,0,3,8,0
+0008,19,0,3,4,0
+0009,7,0,1,2,0
+0010,0,0,0,1,0
+0011,28,0,5,3,0
+0012,29,0,5,4,0
+0013,38,0,5,3,0
+0014,37,0,1,0,0
+0015,36,0,1,0,0
+0016,24,0,0,0,0
+0017,1,0,0,0,0
+0018,49,0,0,0,0
+0019,48,1,0,0,0
+0020,27,0,0,0,0
+0021,7,0,0,0,3
+0022,9,0,0,0,27
+0023,2,0,0,0,14
+0024,0,0,0,0,0
+0025,3,0,0,0,30
+0026,4,0,0,0,45
+0027,1,0,0,0,19
+
+#  
+# Start date: 20220602
+# End date: 20220629
+App,Version,Status
+3263348487,1.1.13,Successful
+
+#  
+# Start date: 20220629
+# End date: 20220629
+App,Crash-free users
+3263348487,1
+3263203655,1
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Day,Average engagement time
+0000,3793.0588235294117
+0001,2820.0434782608695
+0002,2798.6153846153848
+0003,0
+0004,1737.6451612903227
+0005,3138.0344827586205
+0006,2131.6304347826085
+0007,3513.44
+0008,1875
+0009,2071.9
+0010,442
+0011,2064.8611111111113
+0012,2429.2432432432433
+0013,2520.3777777777777
+0014,2587.315789473684
+0015,2018.8648648648648
+0016,886.5416666666666
+0017,44
+0018,1425.938775510204
+0019,1980.313725490196
+0020,2777.3
+0021,1923.9761904761904
+0022,1776.0454545454545
+0023,1121.9545454545455
+0024,0
+0025,2395.942857142857
+0026,2288.8979591836733
+0027,1685.1463414634147
+
+# Start date: 20220602
+# End date: 20220629
+Day,Engaged sessions per user
+0000,2.411764705882353
+0001,2
+0002,1.4615384615384615
+0003,0
+0004,1.7741935483870968
+0005,1.7586206896551724
+0006,1.826086956521739
+0007,2.12
+0008,1.6923076923076923
+0009,1.8
+0010,1
+0011,1.7777777777777777
+0012,1.945945945945946
+0013,1.6222222222222222
+0014,1.4736842105263157
+0015,1.4324324324324325
+0016,1.1666666666666667
+0017,1
+0018,1.4081632653061225
+0019,1.4901960784313726
+0020,1.78
+0021,1.619047619047619
+0022,1.4772727272727273
+0023,1.4545454545454546
+0024,0
+0025,1.8571428571428572
+0026,1.7551020408163265
+0027,1.6829268292682926
+
+# Start date: 20220602
+# End date: 20220629
+Day,Average engagement time per session
+0000,1315.9591836734694
+0001,1081.0166666666667
+0002,1581.8260869565217
+0003,0
+0004,737.9041095890411
+0005,1378.8333333333333
+0006,961.3235294117648
+0007,1291.7058823529412
+0008,855.2631578947369
+0009,796.8846153846154
+0010,442
+0011,895.6024096385543
+0012,1021.3863636363636
+0013,1101.1359223300972
+0014,1276.857142857143
+0015,1067.1142857142856
+0016,591.0277777777778
+0017,44
+0018,691.7920792079208
+0019,1052.0416666666667
+0020,1207.5217391304348
+0021,950.6705882352941
+0022,878.0449438202247
+0023,514.2291666666666
+0024,0
+0025,975.0930232558139
+0026,992.5309734513274
+0027,684.0693069306931
+
+#  
+# Start date: 20220519
+# End date: 20220629
+Cohort,Users
+0000,1
+0001,0.17226277372262774
+0002,0.07446808510638298
+0003,0.04501607717041801
+0004,0.048494983277591976
+0005,0.038461538461538464
+0006,0.032423208191126277
+0007,0.025225225225225224
+0008,0.011320754716981131
+0009,0.01639344262295082
+0010,0.013363028953229399
+0011,0.01715686274509804
+0012,0.004901960784313725
+0013,0.007712082262210797
+0014,0.02185792349726776
+0015,0.014619883040935672
+0016,0.01597444089456869
+0017,0.017241379310344827
+0018,0.011152416356877323
+0019,0.007434944237918215
+0020,0.011406844106463879
+0021,0.012
+0022,0.008333333333333333
+0023,0.009433962264150943
+0024,0.005076142131979695
+0025,0.010752688172043012
+0026,0.005376344086021506
+0027,0.00558659217877095
+0028,0.005813953488372093
+0029,0.005952380952380952
+0030,0.01282051282051282
+0031,0.006802721088435374
+0032,0.008264462809917356
+0033,0.008264462809917356
+0034,0
+0035,0.02
+0036,0.012987012987012988
+0037,0.01694915254237288
+0038,0
+0039,0
+0040,0
+0041,0
+
+# How well do you retain your users?
+# Start date: 20220515
+# End date: 20220625
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+May 15 - May 21,33,6,1,1,0,0
+May 22 - May 28,102,13,5,5,3,-1
+May 29 - Jun 4,65,15,5,3,-1,-1
+Jun 5 - Jun 11,83,9,3,-1,-1,-1
+Jun 12 - Jun 18,139,6,-1,-1,-1,-1
+Jun 19 - Jun 25,190,-1,-1,-1,-1,-1
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Page title and screen class,Views
+HomeActivity,10620
+LoginActivity,3934
+SplashActivity,3494
+SettingsActivity,2231
+ObligationDetailsActivity,1932
+BidListActivity,1344
+ObligationListActivity,1594
+OrderEntrySingleActivity,1283
+CommodityOfferActivity,1129
+MyTransactionsActivity,1347
+ObligationDashboardActivity,427
+MyCommissionsActivity,1219
+ObligationDetailsForDoGenerationActivity,1126
+ConfigSettingsActivity,574
+MoreSettingsActivity,229
+LanguageActivity,560
+CommodityInquiryActivity,664
+MyTransactionFilterActivity,763
+BrokerHomeActivity,752
+BuyerSummaryActivity,163
+DoGenerationActivity,562
+EditUploadedImageActivity,453
+MyCommissionsFilterActivity,495
+ObligationDetailsForDispatchNemlDirectActivity,338
+BuyerVehicleUpdateActivity,156
+TransactionsActivity,408
+QuotationActivity,329
+ChangeThemeActivity,82
+MappedArrivalsActivityKotline,28
+QuoteListOnEnquiryActivity,321
+CmidWiseObligationListActivity,267
+ShowOfferParametersAndImageActivity,46
+MyTradesActivity,207
+FundLedgerActivity,190
+FilterActivity,244
+ImageCaptionActivity,211
+DispatchConfirmationOrderActivity,149
+SettlementLedgerActivity,158
+PublicWatchActivity,161
+ImageFullScreenActivity,175
+LoadedLedgerDetailsActivity,149
+PublicWatchMainActivity,72
+BuyerReviewActivity,61
+TransactionFilterActivity,156
+TwoStepAuthActivity,65
+NotificationActivity,80
+SellerUpdateActivity,102
+AboutUsActivity,123
+BuyerConfirmationActivity,21
+EnableMpinLoginActivity,15
+BuyerUpdateActivity,54
+ChangePasswordActivity,11
+SellerSummaryActivity,19
+ThemeActivity,0
+ActivityAboutUs,21
+SellerConfirmationActivity,16
+TradeReportActivity,25
+CommodityChatInfoActivity,39
+ForgotPasswordDialogActivity,23
+MyCommissionActivityTesting,46
+OtpBasedLogin,18
+SpotCommodityPriceActivity,34
+ViewSpotCommodityPricingActivity,33
+SetMpinDialogActivity,5
+PublicWatchFilterActivity,34
+BiometricAuthActivity,15
+AppSettingsDialogHolderActivity,0
+BankDetailsActivity,18
+TransactionActivity,0
+DoGenerationNemlDirectActivity,13
+MappedArrivalsActivity,0
+FundDepositWebView,8
+CmidWiseObligationFilterActivity,6
+ObligationDetailsForDoGenerationBuyerConfActivity,9
+SpotPricingFilterDialogActivity,6
+ChangeOrResetMpin,2
+CreateNewPasswordActivity,0
+MyCatalogActivity,3
+CartActivity,2
+MyTransactions,0
+OtpLoginActivity,0
+CatalogFavouriteActivity,1
+MpinLoginActivity,0
+MyTransactionActivity,0
+TradeFilterActivity,1
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Event name,Event count
+screen_view,41671
+user_engagement,11204
+session_start,1510
+first_open,517
+app_remove,484
+app_clear_data,68
+app_update,23
+event_demo,0
+app_exception,8
+select_content,0
+apply_setting_button_clicked,1
+login_button_clicked,1
+Back_to_More_settings,7
+login_button,0
+os_update,1
+
+# What are your top conversions?
+# Start date: 20220602
+# End date: 20220629
+Event name,Conversions
+first_open,517
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Day,Total revenue
+
+
+# Start date: 20220602
+# End date: 20220629
+Day,Ecommerce revenue
+
+
+# Start date: 20220602
+# End date: 20220629
+Day,Total ad revenue
+
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Day,Average purchase revenue per user
+
+
+# What is your revenue per Ad unit?
+# Start date: 20220602
+# End date: 20220629
+Ad unit,Publisher ad impressions
+
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Country ID,Users,Users (Previous)
+IN,546,282
+SG,1,0
+
+# Start date: 20220602
+# End date: 20220629
+Country,Users
+India,546
+Singapore,1
+
+#  
+# Start date: 20220602
+# End date: 20220629
+Device model,Users
+M2003J15SC,144
+V2109,77
+CPH1859,110
+SM-M215F,30
+KF6p,26
+SM-M325F,21
+DN2101,10
+SM-E625F,20
+RMX3242,11
+RMX3241,10
+Redmi Note 5 Pro,9
+EB2101,11
+Redmi Note 8 Pro,7
+Redmi 5A,10
+Redmi Note 7,5
+A5010,4
+G,4
+M2004J19PI,5
+RMX2170,3
+Redmi 5,2
+Pixel 4a,3
+CPH1933,2
+CPH1937,1
+RMX2001,1
+1723,1
+LE2101,1
+M2010J19CI,1
+RMX1971,1
+RMX3081,0
+RMX3430,0
+Redmi Note 7 Pro,1
+SM-A505F,1
+SM-M315F,0
+X00TD,0
