@@ -1,0 +1,119 @@
+ID,Tracker,Status,Priority,Subject,Assignee,Updated,% Done
+197,Change Request,Resolved,High,The Location dropdown option has to be updated according to requirements,Shreya Talwekar,05/07/22 05:25 PM,100
+196,Change Request,Resolved,High,Quantity unit and price unit dynamic display has to be fixed in Krishivedh.,Shreya Talwekar,05/07/22 05:25 PM,100
+195,Change Request,Resolved,High,Expected price to be visible in Krishivedh data.,Shreya Talwekar,05/07/22 05:26 PM,100
+194,Feature,Resolved,High,Krishivedh data's display order has to be changed,Shreya Talwekar,05/07/22 05:26 PM,100
+193,Change Request,Resolved,High,The Most recent traded price in buy and sell commodity dashboard needs to be removed,Shreya Talwekar,05/07/22 05:27 PM,100
+192,Change Request,Resolved,High,Change in Announcement order in the investor's corner,Shreya Talwekar,05/07/22 05:24 PM,100
+191,Deployed UAT,Resolved,Normal,Build Release Admin Ver No. 1.0.0.13,Shreya Talwekar,28/06/2022 19:58,100
+190,Feature,New,High,NeML Website Review and Live Changes - 23rd June 2022 - 15.00 Hrs to 16.00 Hrs,Shreya Talwekar,23/06/2022 16:46,0
+189,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.12,Shreya Talwekar,28/06/2022 19:57,100
+188,Feature,Resolved,Normal,21th June changes,Shreya Talwekar,23/06/2022 14:57,100
+186,API (Web Services),New,Normal,Revert Functionality for Application form,Shreya Talwekar,21/06/2022 17:29,0
+185,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.11,Shreya Talwekar,21/06/2022 17:27,100
+184,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.10,Shreya Talwekar,21/06/2022 17:20,100
+183,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.10,Shreya Talwekar,21/06/2022 17:23,100
+182,Bug,Closed,High,NeML Website Review - 17th June 2022 - Key Discussion Points - 16.00 Hrs to 17.00 Hrs,Shreya Talwekar,21/06/2022 17:25,100
+181,Bug,Closed,High,Case Studies - One Pager - Circle Images - 300x300 px,Shreya Talwekar,21/06/2022 17:24,100
+180,Bug,Closed,High,NeML Website - Nav Menu - Resources Section - Dropdown Icons - 16th June 2022 - 17.31 Hrs,Shreya Talwekar,21/06/2022 17:19,100
+179,Feature,Closed,High,Website Review - 16th June 2022 - 15.19 Hrs to 15.40 Hrs - Key Discussion Points,Shreya Talwekar,21/06/2022 17:24,100
+178,Bug,Closed,High,NeML Website Review 4 - 14th June 2022 - 4.00 PM to 5.00 PM - Key Discussion Points,,21/06/2022 17:24,100
+177,Bug,Closed,High,Website Review 3 - 10th June 2022 - 7.00 PM to 8.45 PM,Shreya Talwekar,21/06/2022 17:24,100
+176,Feature,Closed,Normal,10th June 2022 - 3.00 PM to 4.00 PM,Shreya Talwekar,21/06/2022 17:25,100
+175,Bug,Closed,Normal,Website Review - 8th June 2022 - 2.30 P.M,Shreya Talwekar,21/06/2022 17:25,100
+173,Feature,Closed,Normal,Samvad Filters,Pratik Sarin,05/07/22 05:11 PM,100
+172,Feature,Resolved,Normal,Case study update content,Yasharth Kumar Singh,15/06/2022 12:05,100
+171,Feature,Resolved,Normal,Download document update and download functionality,Shreya Talwekar,15/06/2022 12:06,100
+170,Feature,Resolved,Normal,SaaS Change,Yasharth Kumar Singh,15/06/2022 12:06,100
+169,Feature,Resolved,Normal,MaaS Change,Shreya Talwekar,15/06/2022 12:06,100
+131,Feature,Resolved,Normal,Circular with Same details and same attachment should not be allowed to be added.,Shreya Talwekar,26/05/2022 18:56,100
+130,Feature,Resolved,Normal,Event list should be displayed,Pratik Sarin,30/05/2022 15:26,100
+129,Feature,Resolved,Normal,Circular Edit/Delete should be allowed.,Shreya Talwekar,26/05/2022 12:35,100
+128,Bug,Closed,Normal,View Circular screen,Shreya Talwekar,07/06/22 10:55 AM,100
+127,Feature,Resolved,Normal,In case no events added. Message should be displayed as 'No Event Available'.,Pawan Ukey,15/06/2022 12:07,100
+126,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.09,Shreya Talwekar,17/06/2022 20:27,100
+125,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.09,Shreya Talwekar,17/06/2022 20:26,100
+124,Feature,Resolved,Normal,Investors Corner Annual report,Shreya Talwekar,26/05/2022 12:29,100
+123,Feature,Resolved,Normal,Nafed FIlters,Pawan Ukey,15/06/2022 12:07,100
+122,API (Web Services),Resolved,Normal,Get Job Listing Locations and designation,Shreya Talwekar,24/05/2022 14:58,100
+121,API (Web Services),Resolved,Normal,Get samvad api,Pratik Sarin,15/06/2022 12:07,100
+120,Feature,Resolved,Normal,Convert the HR admin dropdowns into input fields,Shreya Talwekar,07/06/22 10:56 AM,100
+118,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.08,Shreya Talwekar,17/06/2022 20:26,100
+117,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.08,Shreya Talwekar,17/06/2022 20:26,100
+116,Feature,Resolved,Normal,Admin: Samvad UI,Yasharth Kumar Singh,15/06/2022 12:08,100
+115,API (Web Services),Resolved,Normal,Add Samvaad Api,Shreya Talwekar,15/06/2022 12:08,100
+114,Feature,Resolved,Normal,Samvad Archive UI screen,Pratik Sarin,24/05/2022 13:07,100
+113,Feature,Closed,Normal,Pratidnya: View Job Categories,Pratidnya Thakare,26/05/2022 12:35,100
+112,Feature,Resolved,Normal,Admin: View Job Listing,Yasharth Kumar Singh,24/05/2022 13:13,100
+111,Feature,Resolved,Normal,Add download  circular feature in admin,Pratik Sarin,24/05/2022 14:59,100
+102,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.07,Shreya Talwekar,17/06/2022 20:26,100
+101,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.07,Shreya Talwekar,17/06/2022 20:25,100
+100,API (Web Services),Resolved,Normal,Update Job category,Pratik Sarin,24/05/2022 13:08,100
+99,API (Web Services),Resolved,Normal,Update Job listing,Yasharth Kumar Singh,26/05/2022 10:23,100
+98,Feature,Resolved,Normal,Samvad Today details ui,Pratik Sarin,24/05/2022 13:08,100
+97,Feature,Resolved,Normal,Samvad main screen ui,Yasharth Kumar Singh,24/05/2022 13:11,100
+87,Feature,Resolved,Normal,View Circulars screen,Shreya Talwekar,24/05/2022 14:59,100
+81,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.06,Shreya Talwekar,17/06/2022 20:25,100
+80,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.06,Shreya Talwekar,17/06/2022 20:25,100
+79,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.05,Shreya Talwekar,17/06/2022 20:25,100
+78,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.05,Shreya Talwekar,17/06/2022 20:24,100
+77,Change Request,Resolved,Normal,price and qty validation in commodity dashboard details,Yasharth Kumar Singh,14/05/2022 19:47,100
+76,Change Request,Closed,Normal,"emd, quantity and margin validation change",Pratik Sarin,17/05/2022 19:40,100
+75,Change Request,Closed,Normal,Auction Date display change,Pratidnya Thakare,14/05/2022 21:06,100
+74,Change Request,Closed,Normal,circular categorization,Shreya Talwekar,14/05/2022 21:08,100
+73,Change Request,Closed,Normal,Circular display sequence change,Shreya Talwekar,14/05/2022 21:08,100
+72,Change Request,Closed,Normal,"Margin, emd, quantity data type change",Shreya Talwekar,14/05/2022 21:07,100
+71,Change Request,Closed,Normal,Event field change to non mandatory,Pratidnya Thakare,14/05/2022 21:06,100
+70,Change Request,Closed,Normal,Circular rejection reason display,Pratidnya Thakare,17/05/2022 19:51,100
+69,Deployed UAT,Closed,Normal,Build Release Website Ver No. 1.0.0.04,Shreya Talwekar,17/06/2022 20:24,100
+68,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.04,Shreya Talwekar,17/06/2022 20:23,100
+67,Bug,Resolved,Normal,Our Differentiators data alignment,Ajinkya  Ambre,17/05/2022 16:21,100
+66,Bug,Resolved,Normal,Why People Choose Us,Ajinkya  Ambre,17/05/2022 19:44,100
+65,Bug,Resolved,Normal,Executive Council Data Change,Ajinkya  Ambre,17/05/2022 19:44,100
+64,Feature,Closed,Normal,Validation in Job Listing Form,Yasharth Kumar Singh,14/05/2022 21:13,100
+63,Bug,Closed,Normal,Circular is not getting uploaded,Shreya Talwekar,12/05/22 07:38 PM,100
+62,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.03,Shreya Talwekar,17/06/2022 15:51,100
+61,Deployed UAT,Closed,Normal,Build Release website Ver No. 1.0.0.03,Shreya Talwekar,17/06/2022 15:51,100
+60,Feature,Resolved,Normal,Connect with us form validations,Ajinkya  Ambre,17/05/2022 16:21,100
+59,Feature,Resolved,Normal,Why Choose Us,Ajinkya  Ambre,17/05/2022 19:44,100
+58,Feature,Closed,Normal,Event Filter functionality,Pawan Ukey,14/05/2022 21:10,100
+57,Feature,Closed,Normal,View Event Screen,Shreya Talwekar,12/05/22 07:46 PM,100
+56,Feature,Closed,Normal,View Circular screen,Pratidnya Thakare,14/05/2022 19:57,100
+55,Feature,Closed,Normal,Dropdown in Admin Panel,Shreya Talwekar,11/05/22 04:08 PM,100
+54,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.02,Shreya Talwekar,17/06/2022 15:51,100
+53,Deployed UAT,Closed,Normal,Build Released website Ver No. 1.0.0.02,Shreya Talwekar,17/06/2022 15:50,100
+52,Deployed UAT,Closed,Normal,Build Release Admin Ver No. 1.0.0.01,Shreya Talwekar,17/06/2022 15:50,100
+51,Deployed UAT,Closed,Normal,Build Release website Ver No 1.0.0.01,Shreya Talwekar,17/06/2022 15:49,100
+48,Bug,Closed,Normal,No Access control,Yasharth Kumar Singh,10/05/22 05:03 PM,100
+47,Feature,Resolved,Normal,NAFED Prices,Ajinkya  Ambre,17/05/2022 19:45,100
+46,Feature,Resolved,Normal,Job Listing Api,Ajinkya  Ambre,06/05/22 07:26 PM,100
+45,Feature,Resolved,Normal,Commodities screen Api,Ajinkya  Ambre,17/05/2022 16:21,100
+44,Feature,Closed,Normal,Commodity Dashboard api,Yasharth Kumar Singh,17/05/2022 19:49,100
+43,Feature,Closed,Normal,Event details api,Pratidnya Thakare,14/05/2022 19:58,100
+42,Feature,Closed,Normal,Circular Api,Shreya Talwekar,07/05/22 12:09 PM,100
+41,Feature,Closed,Normal,NeML backend project setup,Pawan Ukey,14/05/2022 21:12,100
+40,Feature,In Progress,Normal,View blog,Ajinkya  Ambre,25/04/2022 18:26,60
+39,Feature,In Progress,Normal,Case Studies Details,Ajinkya  Ambre,07/06/22 12:04 PM,60
+38,Feature,Resolved,Normal,Terms and Conditions,Ajinkya  Ambre,17/05/2022 16:21,100
+37,Feature,Resolved,Normal,Maas,Ajinkya  Ambre,19/05/2022 14:29,20
+36,Feature,Resolved,Normal,Saas,Ajinkya  Ambre,19/05/2022 14:30,20
+35,Feature,Closed,Normal,HR Admin Form,Shreya Talwekar,10/05/22 05:03 PM,100
+34,Feature,Closed,Normal,Event Admin Form,Pratidnya Thakare,14/05/2022 21:08,100
+33,Feature,Closed,Normal,Admin Panel,Pratidnya Thakare,14/05/2022 21:13,100
+32,Feature,Closed,Normal,Project Set-up,Shreya Talwekar,07/05/22 12:08 PM,100
+31,Feature,Resolved,Normal,Connect With Us,Ajinkya  Ambre,17/05/2022 19:35,100
+30,Feature,Resolved,Normal,Footer,Ajinkya  Ambre,17/05/2022 16:21,100
+29,Feature,New,Normal,Blog,Ajinkya  Ambre,25/04/2022 18:26,60
+28,Feature,Resolved,Normal,Download,Ajinkya  Ambre,17/05/2022 19:35,100
+27,Feature,Resolved,Normal,Investor Corner,Yasharth Kumar Singh,26/05/2022 12:29,100
+26,Feature,In Progress,Normal,Case Studies,Ajinkya  Ambre,05/05/22 04:48 PM,60
+25,Feature,In Progress,Normal,Resources,,26/05/2022 12:29,84
+24,Feature,Closed,Normal,Contact Us,Pratidnya Thakare,14/05/2022 19:58,100
+23,Feature,Resolved,Normal,Careers,Ajinkya  Ambre,17/05/2022 19:35,100
+22,Feature,Closed,Normal,Events Details,Pratidnya Thakare,14/05/2022 21:10,100
+21,Feature,Resolved,Normal,Circulars,Ajinkya  Ambre,14/05/2022 20:21,100
+20,Feature,Resolved,Normal,Commodity Dashboard,Ajinkya  Ambre,17/05/2022 19:34,100
+19,Feature,In Progress,Normal,Markets,Ajinkya  Ambre,19/05/2022 14:31,60
+18,Feature,In Progress,Normal,Services,Ajinkya  Ambre,05/05/22 05:27 PM,20
+17,Feature,Resolved,Normal,About Us,Ajinkya  Ambre,17/05/2022 13:12,100
+16,Feature,New,Normal,Home Page,Shreya Talwekar,15/06/2022 12:09,0

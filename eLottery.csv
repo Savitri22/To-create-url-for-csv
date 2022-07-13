@@ -1,0 +1,25 @@
+#,Tracker,Status,Priority,Subject,Assignee,Updated,% Done
+119,Bug,Resolved,Immediate,Forget Password Feature Not working,Ashwini Randive,24/05/2022 12:03,0
+93,Feature,New,Normal,New SMS templates,Ashwini Randive,19/05/2022 15:16,0
+92,Feature,New,Normal,"While editing scheme preferences, validation via OTP is required",,19/05/2022 15:10,0
+91,Feature,New,Urgent,Payment: QR scanner provision to be added,,19/05/2022 15:06,0
+90,Bug,New,High,"Document approval: Currently if documents are not approved sequentially, document approval status remains in pending",Ashwini Randive,19/05/2022 15:03,0
+86,Feature,New,Normal,Incorrect bank detail,Ashwini Randive,18/05/2022 12:31,0
+85,Bug,New,High,APPROVAL website - Document is approved but Status is showing pending,Ashwini Randive,18/05/2022 12:05,0
+84,Change Request,New,Urgent,nmrda.neml.in - Disable Update button once application form is approved,Ashwini Randive,18/05/2022 12:01,0
+83,Change Request,New,Urgent,APPROVAL website - Add View button after Registration form is Approved,Ashwini Randive,18/05/2022 11:59,0
+15,Feature,New,Normal,Pdf form Generation of lottery application,Vivek Kulkarni,23/03/2022 22:43,0
+14,Feature,Resolved,Normal,"Spouse of the applicant should not be able to register as an applicant in NIT Lottery, this check is not available in the PFM system, this will have to be handled in the operations",Vivek Kulkarni,04/04/22 11:06 AM,100
+13,Feature,New,Normal,PDF document creation with photo for print is not available,Vivek Kulkarni,23/03/2022 22:38,0
+12,Feature,New,Normal,Change Password Screen & Functionality,Vivek Kulkarni,28/03/2022 19:48,100
+11,Feature,New,Normal,Forgot Password Screen & functionality,Vivek Kulkarni,28/03/2022 19:49,100
+10,Feature,New,Normal,"In Event Master, while saving the event relevent event detais should also saved in Event_mstr table of PFM",Balaji Dhakne,23/03/2022 16:19,0
+9,Feature,New,Normal,Lottery Ticket Online Payment Update the Payment flag participant_scheme_mapping table (if razoepay use),Balaji Dhakne,23/03/2022 16:17,0
+8,Feature,New,Normal,Lottery Alogorithms,Parag Maske,23/03/2022 16:16,0
+7,Feature,New,Normal,Schemes Images to be displayed in the Login screen,Balaji Dhakne,23/03/2022 16:15,0
+6,Feature,New,Normal,After Draw Email & message should be circulated to the winners,Parag Maske,23/03/2022 16:15,0
+5,Feature,New,Normal,User Session fields changes to be taken from PFM tables,Nikhil Gardi,28/03/2022 19:49,100
+4,Feature,New,Normal,"""Mobile Number and OTP wise login We have to refer the userid and password from the user_mstr table of PFM""",Nikhil Gardi,23/03/2022 16:10,0
+3,Feature,New,Normal,For New registration route the user to self registration page of PFM,Vivek Kulkarni,28/03/2022 19:48,100
+2,Feature,Closed,Normal,Project set-up,Dinesh Pratap,23/03/2022 17:50,100
+1,Feature,Closed,Normal,eLottery KT to interns,Dinesh Pratap,23/03/2022 17:51,100
